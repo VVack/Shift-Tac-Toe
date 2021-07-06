@@ -1,0 +1,2 @@
+rootProject.name = "Shift-Tac-Toe"
+include ':app'
